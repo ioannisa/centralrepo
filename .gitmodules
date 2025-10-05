@@ -1,0 +1,6 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/ioannisa/android-project.git
+[submodule "ios"]
+	path = ios
+	url = https://github.com/ioannisa/ios-project.git
