@@ -6,3 +6,5 @@ contributors can clone one URL and build the whole solution consistently.
 - iOS submodule:     ./ios
 
 To clone everything: `git clone --recursive https://github.com/<you>/centralrepo.git`
+
+These are changes related to version 2 that touches only iOS...
